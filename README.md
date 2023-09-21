@@ -1,4 +1,4 @@
-![image-20230921174922865](../note/Typora的笔记/image/image-20230921174922865.png)
+![image-20230921174922865](image/image-1.png)
 
 
 
