@@ -1,0 +1,30 @@
+{
+  "private": true,
+  "author": "WhyTeacher <z16600248502@163.com>",
+  "scripts": {
+    "dev": "max dev",
+    "build": "max build",
+    "format": "prettier --cache --write .",
+    "prepare": "husky install",
+    "postinstall": "max setup",
+    "setup": "max setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.2.6",
+    "@ant-design/pro-components": "^2.6.22",
+    "@umijs/max": "^4.0.81",
+    "antd": "^5.9.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.22",
+    "@types/react-dom": "^18.2.7",
+    "husky": "^8.0.3",
+    "lint-staged": "^14.0.1",
+    "mockjs": "^1.1.0",
+    "prettier": "^3.0.3",
+    "prettier-plugin-organize-imports": "^3.2.3",
+    "prettier-plugin-packagejson": "^2.4.5",
+    "typescript": "^5.2.2"
+  }
+}
